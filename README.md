@@ -20,7 +20,7 @@ This project focuses on creating a **marketing video** using AI-generated images
  ├── 📄 README.md   # Project Documentation <br>
  ├── 📂 Images/     # AI-generated images <br>
  ├── 📂 Videos/     # Marketing video clips <br>
- ├── 📄 script.txt  # Video script & captions <br>
+ ├── 📄 audio/      # Audio script & captions <br>
  ├── 🎬 final_video.mp4  # Final Edited Video <br>
 
 
