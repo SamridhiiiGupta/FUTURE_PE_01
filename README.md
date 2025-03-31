@@ -17,11 +17,11 @@ This project focuses on creating a **marketing video** using AI-generated images
 
 ## Repository Structure  
 📁 Future_PE_01/
- ├── 📄 README.md   # Project Documentation
- ├── 📂 Images/     # AI-generated images
- ├── 📂 Videos/     # Marketing video clips
- ├── 📄 script.txt  # Video script & captions
- ├── 🎬 final_video.mp4  # Final Edited Video
+ ├── 📄 README.md   # Project Documentation <br>
+ ├── 📂 Images/     # AI-generated images <br>
+ ├── 📂 Videos/     # Marketing video clips <br>
+ ├── 📄 script.txt  # Video script & captions <br>
+ ├── 🎬 final_video.mp4  # Final Edited Video <br>
 
 
 ## 🎥 Watch the Final Video  
