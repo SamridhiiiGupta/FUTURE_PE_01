@@ -16,7 +16,7 @@ This project focuses on creating a **marketing video** using AI-generated images
 5. **Final Edits**: Branding, subtitles, and post-processing.  
 
 ## Repository Structure  
-📁 Future_PE_01/
+📁 Future_PE_01/ <br>
  ├── 📄 README.md   # Project Documentation <br>
  ├── 📂 Images/     # AI-generated images <br>
  ├── 📂 Videos/     # Marketing video clips <br>
